@@ -1,3 +1,5 @@
-# Fish-Game
-This is a vanille js game (Canvas)
-<img src="assets/sprites/MainGameBackground.PNG" width="100%" />
+# Fish Game (Canvas)
+
+
+
+<img src="assets/sprites/MainGameBackground.PNG" width="100%" style="margin-top:10px;" />
