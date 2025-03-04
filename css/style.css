@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    margin: 30px auto;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#mainCanvas{
+    align-self: center;
+    border: 4px solid #000;      
+}
+
+.btn-light:hover{
+    background-color: #b8bbbf  !important;
+}
+.card{
+    border-radius: 13px !important;   
+}
+
+.goMod:hover{
+    background-color: #d0d2d3 !important;
+}
